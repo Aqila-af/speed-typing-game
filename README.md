@@ -1,5 +1,4 @@
-# title(){return this.options.title||this.options.name}
-
+# speed-typing-game
 Quick start:
 
 ```
